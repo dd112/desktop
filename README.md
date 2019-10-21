@@ -6,5 +6,4 @@
 <li>html</li>
 <li>css</li>
 <li>javascript</li>
-<li>javascript</li>
 </ul>
